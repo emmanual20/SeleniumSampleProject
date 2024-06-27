@@ -7,7 +7,7 @@ public class ContactTest {
 public void createcontactTest() {
 		String url=System.getProperty("url");
 		String browser=System.getProperty("browser");
-		String username=System.getProperty("username");
+		String username=System.getProperty("login");
 		String password=System.getProperty("password");
 		System.out.println(url+","+browser+","+username+","+password);
 	System.out.println("execute create contact Test");
