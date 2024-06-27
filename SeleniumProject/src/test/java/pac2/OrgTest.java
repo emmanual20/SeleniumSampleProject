@@ -9,7 +9,7 @@ public void createorgTest() {
 }
 
 @Test
-public void modifyOrg() {
+public void modifyOrgTest() {
 	System.out.println("execute modify Org");
 }
 }
